@@ -1,0 +1,62 @@
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.center{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.navopciones{
+    padding: 30px;
+    text-decoration: none;
+    color: black;
+    text-align: right;
+}
+
+.navopciones:hover{
+    color: rgb(117, 116, 116);
+}
+    
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+table{
+    width: 50%;
+    margin-top: 10%;
+}
+
+.oscura{
+    background-color: #F1F1F1;
+    font-weight: 550;
+}
+
+/* -------GATITOS--------- */
+
+img{
+    width: 30%;
+}
+
+.imagenes{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.video{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.sonido{
+    margin-top: 30px;
+    text-align: center;
+}
