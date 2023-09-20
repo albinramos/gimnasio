@@ -40,6 +40,10 @@ table{
     font-weight: 550;
 }
 
+td{
+    width: 25%;
+}
+
 /* -------GATITOS--------- */
 
 img{
